@@ -1,0 +1,8 @@
+/config/settings.inc.php
+/var/
+/vendor/
+/node_modules/
+/cache/
+/log/
+/img/tmp/
+/upload/
